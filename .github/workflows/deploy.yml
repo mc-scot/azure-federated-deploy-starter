@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: "app-fedid-hj3xivded7dge"
+  AZURE_WEBAPP_NAME: "app-fedid-2b5w5xpvry55o"
 permissions:
   id-token: write # allows generation of short lived id token
   contents: read  # allows us to issue the permission
